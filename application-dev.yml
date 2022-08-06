@@ -1,0 +1,4 @@
+mysql:
+  user: root
+person:
+  name: yuqian
